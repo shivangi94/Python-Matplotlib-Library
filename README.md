@@ -1,3 +1,3 @@
 # Python
 
-This Repository contains all my projects in Python.
+This repository contains all projects in Python.
